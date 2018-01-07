@@ -7,5 +7,6 @@ task based on:
   - Task Name
   - Due Date
   - Priority
+  
 You can also print the task list, and add a task to the list, or remove a task
 from it. It uses a simple XML database to store data.
